@@ -11,7 +11,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="315dp"
+        android:layout_height="250dp"
         android:src="@drawable/mlkit" />
 
     <ListView
@@ -22,7 +22,7 @@
 
     <Button
         android:id="@+id/start"
-        android:layout_width="349dp"
+        android:layout_width="fill_parent"
         android:layout_height="51dp"
         android:text="START"
         android:textColor="#ffff"
