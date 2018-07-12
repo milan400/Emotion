@@ -12,7 +12,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:src="@drawable/mlkit" />
+        android:src="@drawable/freelogo" />
 
     <ListView
         android:id="@+id/test_activity_list_view"
@@ -27,5 +27,5 @@
         android:text="START"
         android:textColor="#ffff"
         android:textSize="18dp"
-        android:background="#6200EE"/>
+        android:background="#3F51B5"/>
 </LinearLayout>

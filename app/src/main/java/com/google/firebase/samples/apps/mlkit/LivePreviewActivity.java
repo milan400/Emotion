@@ -84,7 +84,6 @@ public final class LivePreviewActivity extends AppCompatActivity
     options.add(TEXT_DETECTION);
     options.add(BARCODE_DETECTION);
     options.add(IMAGE_LABEL_DETECTION);
-    options.add(CLASSIFICATION);
     // Creating adapter for spinner
     ArrayAdapter<String> dataAdapter = new ArrayAdapter<>(this, R.layout.spinner_style, options);
     // Drop down layout style - list view with radio button
